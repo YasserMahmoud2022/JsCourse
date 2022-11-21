@@ -1,1 +1,1 @@
-# JsCourse
+# Quote-Generator
